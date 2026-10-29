@@ -41,13 +41,13 @@ export const socialMedia = [
     id: 1,
     Icon: AiFillGithub,
     label: "GitHub",
-    mediaUrl: "https://github.com/Heaven-TS",
+    mediaUrl: "https://github.com/dskwda",
   },
   {
     id: 3,
     Icon: AiOutlineMail,
     label: "Email",
-    mediaUrl: "mailto:k.legend.dev@gmail.com",
+    mediaUrl: "mailto:ongwkevin@gmail.com",
   },
 ]
 
@@ -266,7 +266,7 @@ export const worksData: WorkData[] = [
     description:
       "A production-grade AI SaaS platform with multi-model support, chat interface, and automated workflow orchestration. Built with Next.js and OpenAI APIs.",
     liveUrl: "https://jj-nextgen-ai.vercel.app/",
-    githubUrl: "https://github.com/Heaven-TS/AI-Sass-platform",
+    githubUrl: "https://github.com/dskwda/AI-Sass-platform",
     images: [
       { url: "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=800&q=80" },
     ],
@@ -279,7 +279,7 @@ export const worksData: WorkData[] = [
     description:
       "AI-powered productivity SaaS platform featuring intelligent note-taking, knowledge management, and automated content generation workflows.",
     liveUrl: "https://takumi-ai-sass-django-project.vercel.app/",
-    githubUrl: "https://github.com/Heaven-TS/AI-Sass-Django-project",
+    githubUrl: "https://github.com/dskwda/AI-Sass-Django-project",
     images: [
       { url: "https://images.unsplash.com/photo-1593508512255-86ab42a8e620?w=800&q=80" },
     ],
@@ -292,7 +292,7 @@ export const worksData: WorkData[] = [
     description:
       "Modern AI-enhanced e-commerce experience with intelligent product recommendations, dynamic UI, and seamless checkout flow.",
     liveUrl: "https://takumi-full-stack-ecommerce-lumore.vercel.app/",
-    githubUrl: "https://github.com/Heaven-TS/Full-stack-Ecommerce-Lumore",
+    githubUrl: "https://github.com/dskwda/Full-stack-Ecommerce-Lumore",
     images: [
       { url: "https://api.microlink.io/?url=https://lumore.vercel.app/&screenshot=true&meta=false&embed=screenshot.url" },
     ],
@@ -305,7 +305,7 @@ export const worksData: WorkData[] = [
     description:
       "Retrieval-Augmented Generation system for document intelligence. Upload any document and chat with it using natural language powered by vector search.",
     liveUrl: "https://document-chat-system.vercel.app/",
-    githubUrl: "https://github.com/Heaven-TS/AI-document-chat-system",
+    githubUrl: "https://github.com/dskwda/AI-document-chat-system",
     images: [
       { url: "https://images.unsplash.com/photo-1555421689-d68471e189f2?w=800&q=80" },
     ],
@@ -318,7 +318,7 @@ export const worksData: WorkData[] = [
     description:
       "Full-stack AI study assistant built with Next.js, FastAPI, LangChain, and Pinecone. Features document upload, chat, quiz and notes generation, and web search agent.",
     liveUrl: "https://takumi-ai-next-fast-api.vercel.app/",
-    githubUrl: "https://github.com/Heaven-TS/AI-Next-FastAPI",
+    githubUrl: "https://github.com/dskwda/AI-Next-FastAPI",
     images: [
       { url: "https://images.unsplash.com/photo-1546410531-bb4caa6b424d?w=800&q=80" },
     ],
@@ -331,7 +331,7 @@ export const worksData: WorkData[] = [
     description:
       "AI-powered video-to-text transcription service built with FastAPI. Automatically extracts and transcribes audio from video files with high accuracy.",
     liveUrl: "https://e-commerce.partners/video-to-text/?utm_campaign=video2text.de&utm_medium=rdhr",
-    githubUrl: "https://github.com/Heaven-TS/AI-video-to-text",
+    githubUrl: "https://github.com/dskwda/AI-video-to-text",
     images: [
       { url: "https://images.unsplash.com/photo-1492619375914-88005aa9e8fb?w=800&q=80" },
     ],
@@ -345,7 +345,7 @@ export const worksData: WorkData[] = [
     description:
       "Elegant wedding website with RSVP management, event details, photo gallery, and guest coordination features. Clean modern design with smooth animations.",
     liveUrl: "https://takumi-wedding-site.vercel.app/",
-    githubUrl: "https://github.com/Heaven-TS/Wedding-site",
+    githubUrl: "https://github.com/dskwda/Wedding-site",
     images: [
       { url: "https://api.microlink.io/?url=https://site-weding.netlify.app/&screenshot=true&meta=false&embed=screenshot.url" },
     ],
@@ -358,7 +358,7 @@ export const worksData: WorkData[] = [
     description:
       "Fully responsive and modern e-commerce website with product listings, cart, checkout, and order management. Built for performance and scalability.",
     liveUrl: "https://takumi-full-stack-modern-ecommerce.vercel.app/",
-    githubUrl: "https://github.com/Heaven-TS/Full-stack-Modern-Ecommerce",
+    githubUrl: "https://github.com/dskwda/Full-stack-Modern-Ecommerce",
     images: [
       { url: "https://api.microlink.io/?url=https://modern-commerce-site.netlify.app/&screenshot=true&meta=false&embed=screenshot.url" },
     ],
@@ -371,7 +371,7 @@ export const worksData: WorkData[] = [
     description:
       "Movie streaming platform with real-time search, genre filtering, watchlists, and a clean cinema-style UI. Integrates with external media APIs.",
     liveUrl: "https://www.weflix.app/",
-    githubUrl: "https://github.com/Heaven-TS/Full-stack-Free-Movie-Streaming-Website",
+    githubUrl: "https://github.com/dskwda/Full-stack-Free-Movie-Streaming-Website",
     images: [
       { url: "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=800&q=80" },
     ],
@@ -384,7 +384,7 @@ export const worksData: WorkData[] = [
     description:
       "AI-powered photo generation platform with intelligent image creation, style transfer, and automated creative workflows.",
     liveUrl: "https://mindforgee.vercel.app/",
-    githubUrl: "https://github.com/Heaven-TS/AI--Photo-Generation-Platform",
+    githubUrl: "https://github.com/dskwda/AI--Photo-Generation-Platform",
     images: [
       { url: "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=800&q=80" },
     ],
@@ -397,7 +397,7 @@ export const worksData: WorkData[] = [
     description:
       "Full-featured online course platform with video lessons, Stripe payments, progress tracking, and instructor dashboards. Built with Next.js 15 and Drizzle ORM.",
     liveUrl: "https://coode-platform.vercel.app",
-    githubUrl: "https://github.com/Heaven-TS/Full-stack-Online-Course-Platform",
+    githubUrl: "https://github.com/dskwda/Full-stack-Online-Course-Platform",
     images: [
       { url: "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=800&q=80" },
     ],
@@ -410,7 +410,7 @@ export const worksData: WorkData[] = [
     description:
       "Comprehensive full-stack e-commerce platform inspired by Amazon. Features include product catalog, shopping cart, user authentication, order management, and payment processing.",
     liveUrl: "https://amazoning.onrender.com/",
-    githubUrl: "https://github.com/Heaven-TS/Full-stack-Ecommerce",
+    githubUrl: "https://github.com/dskwda/Full-stack-Ecommerce",
     images: [
       { url: "https://images.unsplash.com/photo-1563986768609-322da13575f3?w=800&q=80" },
     ],
