@@ -138,7 +138,7 @@ export default function ProfileCard({ profileData }: Props) {
         {/* location */}
         <div className="flex items-center gap-2 mt-4 text-gray-500 text-[1.4rem]">
           <MdLocationOn className="text-main-orange text-2xl flex-shrink-0" />
-          <span>Osaka, Japan</span>
+          <span>Guayaquil, Ecuador</span>
         </div>
 
         <div className="absolute bottom-0 left-0 flex w-full h-28 borderLeft customLine">
@@ -152,7 +152,7 @@ export default function ProfileCard({ profileData }: Props) {
           <MyLink
             name="my github"
             Icon={AiFillGithub}
-            url="https://github.com/Heaven-TS"
+            url="https://github.com/dskwda"
           />
         </div>
       </div>
