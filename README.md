@@ -1,1 +1,3 @@
-# kw-portfolio
+- 😄 My portfolio for a software engineer
+- 🌱 I’m currently learning about cybersecurity
+- 👯 I’m looking to collaborate on cloud + AI development
