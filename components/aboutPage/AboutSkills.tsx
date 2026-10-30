@@ -2,10 +2,11 @@ import { BsCodeSlash } from "react-icons/bs"
 import { MdOutlineFlag } from "react-icons/md"
 
 const devSkills = [
-  { label: "AI", value: 95 },
-  { label: "Backend", value: 90 },
-  { label: "Frontend", value: 88 },
-  { label: "DevOps", value: 80 },
+  { label: "AI", value: 90 },
+  { label: "Backend", value: 95 },
+  { label: "Frontend", value: 90 },
+  { label: "Blockchain", value: 85 },
+  { label: "DevOps", value: 85 },
 ]
 
 const langSkills = [
