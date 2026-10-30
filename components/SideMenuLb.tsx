@@ -50,7 +50,7 @@ export default function SideMenuLb({ profile }: Props) {
           <h3 className="text-[1.8rem] text-gray-800 font-semibold text-center mb-1">
             {profile.name}
           </h3>
-          <p className="text-main-orange text-xl mb-5">Senior AI &amp; Full Stack Engineer</p>
+          <p className="text-main-orange text-xl mb-5">Software Engineer</p>
 
           {/* social icons */}
           <div className="flex gap-5 items-center justify-center">

@@ -97,15 +97,16 @@ export default function WorkLb() {
               <span>View Live Demo</span>
             </a>
             {!isWebDesign && (
-              <a
-                href={work.githubUrl}
-                target="_blank"
-                rel="noreferrer"
-                className="flex-1 flex items-center justify-center gap-3 px-6 py-4 bg-gray-100 text-gray-700 text-base font-bold rounded-xl hover:bg-gray-800 hover:text-white hover:shadow-lg hover:scale-105 transition-all duration-300"
-              >
-                <FiGithub className="text-xl" />
-                <span>View on GitHub</span>
-              </a>
+              <></>
+              // <a
+              //   href={work.githubUrl}
+              //   target="_blank"
+              //   rel="noreferrer"
+              //   className="flex-1 flex items-center justify-center gap-3 px-6 py-4 bg-gray-100 text-gray-700 text-base font-bold rounded-xl hover:bg-gray-800 hover:text-white hover:shadow-lg hover:scale-105 transition-all duration-300"
+              // >
+              //   <FiGithub className="text-xl" />
+              //   <span>View on GitHub</span>
+              // </a>
             )}
           </div>
         </div>

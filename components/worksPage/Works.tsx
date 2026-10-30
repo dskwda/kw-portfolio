@@ -37,7 +37,7 @@ export default function Works() {
         layout="position"
         className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-2 relative vCustomLine before:hidden sm:before:block before:left-1/2 before:-translate-x-1/2 pt-8 px-2"
       >
-        <AnimatePresence mode="popLayout">
+        <AnimatePresence>
           {filteredWorks.map((w, index) => (
             <Work
               key={w.id}

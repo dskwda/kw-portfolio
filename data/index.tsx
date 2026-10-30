@@ -33,7 +33,7 @@ export const menus: MenuData[] = [
   { id: 4, label: "blog",    Icon: FaBlog,         Component: Blog           },
   { id: 5, label: "stats",   Icon: FaChartBar,     Component: Stats          },
   { id: 6, label: "contact", Icon: AiOutlineMail,  Component: Contact        },
-  { id: 7, label: "admin",   Icon: FaUserShield,   Component: AdminDashboard },
+  // { id: 7, label: "admin",   Icon: FaUserShield,   Component: AdminDashboard },
 ]
 
 export const socialMedia = [
@@ -151,7 +151,7 @@ export const testimonials: TestimonialData[] = [
     quote:
       "Takumi's ability to explain complex technical concepts in simple terms made collaboration seamless. His code quality and documentation are top-notch.",
     userName: "Michael Thompson",
-    userProfession: "Senior Developer at CloudSync Systems",
+    userProfession: "Software Engineer at CloudSync Systems",
     userImage: {
       url: "https://images.unsplash.com/photo-1633332755192-727a05c4013d?w=400&q=80",
     },
@@ -173,7 +173,7 @@ export const quoteData: TestimonialData = {
   quote:
     "The best way to predict the future is to invent it. Code is not just instructions for machines — it is the language through which we shape tomorrow.",
   userName: "Kevin Wong",
-  userProfession: "Senior AI & Full Stack Engineer",
+  userProfession: "Software Engineer",
   userImage: {
     url: "/images/avatar.jpg",
   },
@@ -182,33 +182,41 @@ export const quoteData: TestimonialData = {
 export const experienceData = [
   {
     id: "exp1",
-    badge: "03/2024 – 02/2026",
-    title: "AI | Full-Stack Engineer",
-    subTitle: "Chinougijutsu Co., Ltd. — Osaka, Japan",
-    desc: "Designed and deployed production AI applications using FastAPI, LangChain, OpenAI APIs, and vector databases. Built RAG pipelines that improved response accuracy and reduced hallucinations. Developed AI agents to automate multi-step business workflows. Reduced API latency by 40% while lowering infrastructure costs. Led a team of eight engineers.",
+    badge: "09/2025 – Present",
+    title: "Software Engineer",
+    subTitle: "AfterQuery Experts",
+    desc: "Evaluate model outputs on code quality, correctness of multi-step reasoning, and edge-case coverage. Author and review software-engineering tasks used to train and benchmark large language models.",
     experience: true,
   },
   {
     id: "exp2",
-    badge: "06/2022 – 02/2024",
-    title: "AI Developer",
-    subTitle: "Rokken — Osaka, Japan",
-    desc: "Built machine learning pipelines for real-time sentiment analysis with high prediction accuracy. Implemented privacy-preserving ML techniques for healthcare applications. Integrated AI-powered features into the company's SaaS platform. Developed backend services using Python, FastAPI, PostgreSQL, and Docker.",
+    badge: "02/2024 – 08/2025",
+    title: "Full Stack Engineer",
+    subTitle: "Wolfspeed",
+    desc: "Designed and deployed production AI applications using FastAPI, LangChain, OpenAI APIs, and vector databases. Built RAG pipelines that improved response accuracy and reduced hallucinations. Developed AI agents to automate multi-step business workflows. Reduced API latency by 40% while lowering infrastructure costs. Led a team of eight engineers.",
     experience: true,
   },
   {
     id: "exp3",
-    badge: "09/2020 – 06/2022",
-    title: "Full Stack Developer",
-    subTitle: "Fenrir Inc — Osaka, Japan",
-    desc: "Developed a microservices-based e-commerce platform using React, Node.js, GraphQL, and PostgreSQL. Reduced page load time by 30% through frontend optimization. Designed GraphQL APIs for high-volume production traffic. Implemented CI/CD pipelines using GitHub Actions and Docker, reducing deployment time from 3 hours to 25 minutes.",
+    badge: "03/2020 – 12/2023",
+    title: "Blockchain Developer",
+    subTitle: "Metararity",
+    desc: "Built a custom DEX platform that processed over $816M in trading volume annually with a TVL of $3.7M and 100+ liquidity pools. Architected, developed, optimized, and maintained smart contracts for the user-facing NFT marketplace using Solidity, Hardhat, and OpenZeppelin. Developed 40+ custom smart contracts for staking, yield farming and LP tokens using OpenZeppelin.",
     experience: true,
   },
   {
     id: "exp4",
-    badge: "05/2018 – 08/2020",
+    badge: "04/2018 – 12/2019",
+    title: "Full Stack Developer",
+    subTitle: "Shift Technologies",
+    desc: "Developed a microservices-based e-commerce platform using React, Node.js, GraphQL, and PostgreSQL. Reduced page load time by 30% through frontend optimization and API performance improvements. Designed GraphQL APIs for high-volume production traffic. Implemented CI/CD pipelines using GitHub Actions and Docker, reducing deployment time from 2 hours to 28 minutes.",
+    experience: true,
+  },
+  {
+    id: "exp5",
+    badge: "03/2017 – 12/2017",
     title: "Junior Full Stack Developer",
-    subTitle: "KINTO Technologies — Osaka, Japan",
+    subTitle: "NanoString Technologies",
     desc: "Built and maintained RESTful APIs using Django, Python, and PostgreSQL. Migrated legacy JavaScript applications to TypeScript, improving maintainability and reducing production bugs. Developed automated testing pipelines using Jest and Cypress.",
     experience: true,
   },
@@ -217,9 +225,9 @@ export const experienceData = [
 export const educationData = [
   {
     id: "edu1",
-    badge: "04/2014 – 03/2018",
-    title: "Bachelor of Science in Computer Science",
-    subTitle: "International Professional University of Technology — Osaka, Japan",
+    badge: "04/2014 – 03/2019",
+    title: "Bachelor of Science in Computer Science | Bachelor of Engineering in Computer Software Engineering",
+    subTitle: "Universidad Politécnica Salesiana del Ecuador",
     desc: "Specialization in Artificial Intelligence. Studied machine learning, algorithms, data structures, distributed systems, and software engineering principles.",
     experience: false,
   },
@@ -242,7 +250,7 @@ export const skillsData = {
     "LangChain & LangGraph",
     "RAG Pipelines",
     "AI Agents",
-    "OpenAI / GPT-5.6 APIs",
+    "OpenAI / GPT-6 APIs",
     "Vector Databases (Pinecone, Weaviate)",
     "Prompt Engineering & Fine-tuning (LoRA, PEFT)",
     "Docker & Kubernetes",
@@ -253,8 +261,8 @@ export const skillsData = {
     "Microservices Architecture",
   ],
   languages: [
-    { id: "l1", field: "English", value: "10" },
-    { id: "l2", field: "Japanese", value: "10" },
+    { id: "l1", field: "Spanish", value: "10" },
+    { id: "l2", field: "English", value: "10" },
   ],
 }
 
