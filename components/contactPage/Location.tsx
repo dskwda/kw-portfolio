@@ -3,7 +3,7 @@ import { FaBriefcase } from "react-icons/fa"
 import { motion } from "framer-motion"
 
 const infoItems = [
-  { Icon: MdLocationOn, field: "Address",   value: "Guayaquil, Ecuador" },
+  { Icon: MdLocationOn, field: "Address",   value: "Guayaquil, Guayas, Ecuador" },
   { Icon: MdEmail,      field: "Email",     value: "ongwkevin@gmail.com" },
   { Icon: MdPhone,      field: "Phone",     value: "+593 991135866"        },
   { Icon: FaBriefcase,  field: "Freelance", value: "Available",  highlight: true },
@@ -58,7 +58,7 @@ export default function Location() {
               Let's <span className="text-white/90 underline underline-offset-4 decoration-white/40">Connect.</span>
             </h2>
             <p className="text-[1.4rem] text-white/75 leading-[1.75]">
-              Based in Guayaquil, Ecuador.<br />
+              Based in Guayaquil, Guayas, Ecuador.<br />
               Open to remote &amp; on-site worldwide.
             </p>
           </motion.div>
