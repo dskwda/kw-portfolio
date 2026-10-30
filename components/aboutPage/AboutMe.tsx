@@ -19,7 +19,7 @@ export default function AboutMe() {
 
       <ul className="grid grid-cols-1 mt-6 location sm:grid-cols-2 gap-y-2">
         <MyInfo field="residence" value="Ecuador" />
-        <MyInfo field="address" value="Guayaquil, Ecuador" />
+        <MyInfo field="address" value="Guayaquil, Guayas, Ecuador" />
         <MyInfo field="email" value="ongwkevin@gmail.com" />
         <MyInfo field="freelance" value="Available" />
       </ul>
