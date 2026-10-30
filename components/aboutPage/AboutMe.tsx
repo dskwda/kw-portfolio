@@ -5,7 +5,7 @@ export default function AboutMe() {
     <div className="px-12 py-10">
       <article className="prose max-w-none prose-h2:mb-2.5 prose-h2:text-[1.6rem] prose-p:text-2xl prose-p:leading-[1.65]">
         <p>
-          Senior AI &amp; Full Stack Engineer with 8+ years of experience building
+          Software Engineer with 8+ years of experience building
           scalable SaaS platforms, AI applications, and cloud-based systems.
         </p>
         <p>

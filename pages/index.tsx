@@ -17,7 +17,7 @@ import BlogLb from "../components/blogPage/BlogLb"
 
 const profileData = {
   name: "Kevin Wong",
-  bio: "Senior AI & Full Stack Engineer with 8+ years of experience.",
+  bio: "Software Engineer with 8+ years of experience.",
   ownersPhoto: {
     url: "/images/avatar.jpg",
   },
@@ -57,7 +57,7 @@ const Home: NextPage = () => {
         <title>Kevin Wong — Portfolio</title>
         <meta
           name="description"
-          content="Senior AI & Full Stack Engineer — Kevin Wong"
+          content="Software Engineer — Kevin Wong"
         />
         <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
         <link rel="manifest" href="/site.webmanifest" />

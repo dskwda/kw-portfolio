@@ -39,7 +39,7 @@ export default function Stats() {
         </ul>
       </motion.div>
 
-      <motion.div
+      {/* <motion.div
         initial="hidden"
         whileInView="visible"
         viewport={{ once: true, amount: 0.3 }}
@@ -47,7 +47,7 @@ export default function Stats() {
       >
         <Title name="github activity" />
         <GithubStats />
-      </motion.div>
+      </motion.div> */}
     </section>
   )
 }
