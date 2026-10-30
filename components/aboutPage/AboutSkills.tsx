@@ -9,8 +9,8 @@ const devSkills = [
 ]
 
 const langSkills = [
+  { label: "Spanish", value: 100 },
   { label: "English", value: 100 },
-  { label: "Japanese", value: 100 },
 ]
 
 interface BarProps {
