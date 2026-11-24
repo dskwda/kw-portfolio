@@ -109,7 +109,7 @@ export const testimonials: TestimonialData[] = [
   {
     id: 1,
     quote:
-      "Takumi delivered an outstanding AI pipeline that dramatically improved our knowledge retrieval accuracy. His expertise in LangChain and RAG is exceptional.",
+      "Kevin delivered an outstanding AI pipeline that dramatically improved our knowledge retrieval accuracy. His expertise in LangChain and RAG is exceptional.",
     userName: "Alex Martinez",
     userProfession: "CTO at IntelliAI Solutions",
     userImage: {
@@ -119,7 +119,7 @@ export const testimonials: TestimonialData[] = [
   {
     id: 2,
     quote:
-      "Working with Takumi on our SaaS platform was a game changer. He brought deep full-stack expertise and a strong eye for scalable architecture.",
+      "Working with Kevin on our SaaS platform was a game changer. He brought deep full-stack expertise and a strong eye for scalable architecture.",
     userName: "Sarah Chen",
     userProfession: "Product Manager at Zenith Review Inc",
     userImage: {
@@ -129,7 +129,7 @@ export const testimonials: TestimonialData[] = [
   {
     id: 3,
     quote:
-      "Takumi reduced our deployment time from 3 hours to 25 minutes with his CI/CD improvements. Highly recommend him for any DevOps or full-stack work.",
+      "Kevin reduced our deployment time from 3 hours to 25 minutes with his CI/CD improvements. Highly recommend him for any DevOps or full-stack work.",
     userName: "James Wilson",
     userProfession: "Engineering Lead at Jupiter Enterprises",
     userImage: {
@@ -149,7 +149,7 @@ export const testimonials: TestimonialData[] = [
   {
     id: 5,
     quote:
-      "Takumi's ability to explain complex technical concepts in simple terms made collaboration seamless. His code quality and documentation are top-notch.",
+      "Kevin's ability to explain complex technical concepts in simple terms made collaboration seamless. His code quality and documentation are top-notch.",
     userName: "Michael Thompson",
     userProfession: "Software Engineer at CloudSync Systems",
     userImage: {
@@ -159,7 +159,7 @@ export const testimonials: TestimonialData[] = [
   {
     id: 6,
     quote:
-      "The API architecture Takumi designed for our platform is elegant and performant. He anticipated scaling challenges before they became problems.",
+      "The API architecture Kevin designed for our platform is elegant and performant. He anticipated scaling challenges before they became problems.",
     userName: "Priya Sharma",
     userProfession: "Tech Lead at DataHub Solutions",
     userImage: {
@@ -286,7 +286,7 @@ export const worksData: WorkData[] = [
     title: "MindForge — AI Productivity SaaS",
     description:
       "AI-powered productivity SaaS platform featuring intelligent note-taking, knowledge management, and automated content generation workflows.",
-    liveUrl: "https://takumi-ai-sass-django-project.vercel.app/",
+    liveUrl: "https://dskwda-ai-sass-django-project.vercel.app/",
     githubUrl: "https://github.com/dskwda/AI-Sass-Django-project",
     images: [
       { url: "https://images.unsplash.com/photo-1593508512255-86ab42a8e620?w=800&q=80" },
@@ -299,7 +299,7 @@ export const worksData: WorkData[] = [
     title: "Lumore — AI UI/UX E-Commerce",
     description:
       "Modern AI-enhanced e-commerce experience with intelligent product recommendations, dynamic UI, and seamless checkout flow.",
-    liveUrl: "https://takumi-full-stack-ecommerce-lumore.vercel.app/",
+    liveUrl: "https://dskwda-full-stack-ecommerce-lumore.vercel.app/",
     githubUrl: "https://github.com/dskwda/Full-stack-Ecommerce-Lumore",
     images: [
       { url: "https://api.microlink.io/?url=https://lumore.vercel.app/&screenshot=true&meta=false&embed=screenshot.url" },
@@ -325,7 +325,7 @@ export const worksData: WorkData[] = [
     title: "ACE AI — LangChain Study Assistant",
     description:
       "Full-stack AI study assistant built with Next.js, FastAPI, LangChain, and Pinecone. Features document upload, chat, quiz and notes generation, and web search agent.",
-    liveUrl: "https://takumi-ai-next-fast-api.vercel.app/",
+    liveUrl: "https://dskwda-ai-next-fast-api.vercel.app/",
     githubUrl: "https://github.com/dskwda/AI-Next-FastAPI",
     images: [
       { url: "https://images.unsplash.com/photo-1546410531-bb4caa6b424d?w=800&q=80" },
@@ -352,7 +352,7 @@ export const worksData: WorkData[] = [
     title: "Wedding Site — Full Stack",
     description:
       "Elegant wedding website with RSVP management, event details, photo gallery, and guest coordination features. Clean modern design with smooth animations.",
-    liveUrl: "https://takumi-wedding-site.vercel.app/",
+    liveUrl: "https://dskwda-wedding-site.vercel.app/",
     githubUrl: "https://github.com/dskwda/Wedding-site",
     images: [
       { url: "https://api.microlink.io/?url=https://site-weding.netlify.app/&screenshot=true&meta=false&embed=screenshot.url" },
@@ -365,7 +365,7 @@ export const worksData: WorkData[] = [
     title: "Modern E-Commerce Platform",
     description:
       "Fully responsive and modern e-commerce website with product listings, cart, checkout, and order management. Built for performance and scalability.",
-    liveUrl: "https://takumi-full-stack-modern-ecommerce.vercel.app/",
+    liveUrl: "https://dskwda-full-stack-modern-ecommerce.vercel.app/",
     githubUrl: "https://github.com/dskwda/Full-stack-Modern-Ecommerce",
     images: [
       { url: "https://api.microlink.io/?url=https://modern-commerce-site.netlify.app/&screenshot=true&meta=false&embed=screenshot.url" },
